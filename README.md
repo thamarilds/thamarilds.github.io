@@ -23,7 +23,7 @@
     right: 16px;
   }
 </style>
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
