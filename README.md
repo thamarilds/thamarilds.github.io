@@ -103,7 +103,7 @@
         }
 
         .card {
-            background: purple;
+            background: light green;
             padding: 1.5rem;
             border-radius: 8px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
@@ -250,7 +250,7 @@
                 <p><strong>📧 Email:</strong> tatarvargas@gmail.com</p>
                 <p><strong>📱 Telefone:</strong> (11) 99999-9999</p>
                 <p><strong>📍 Localização:</strong> Bahia, Brasil</p>
-                <p><strong>💼 LinkedIn:</strong> <a href="#">linkedin.com/in/thamaravargas</a></p>
+                <p><strong>💼 LinkedIn:</strong> <a href="#">https://www.linkedin.com/in/thamaravargas</a></p>
             </div>
         </section>
     </main>
