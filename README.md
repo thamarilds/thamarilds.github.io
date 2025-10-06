@@ -1,36 +1,12 @@
 
-<link rel="stylesheet" href="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css">
-<script src="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js"></script>
-<df-messenger
-  project-id="sec-educacao-pe"
-  agent-id="977d8569-7193-477b-b9e7-aed3561af364"
-  language-code="pt-br"
-  max-query-length="-1">
-  <df-messenger-chat-bubble
-    chat-title="matricula-chatbot-seduc-pe">
-  </df-messenger-chat-bubble>
-</df-messenger>
-<style>
-  df-messenger {
-    z-index: 999;
-    position: fixed;
-    --df-messenger-font-color: #000;
-    --df-messenger-font-family: Google Sans;
-    --df-messenger-chat-background: #f3f6fc;
-    --df-messenger-message-user-background: #d3e3fd;
-    --df-messenger-message-bot-background: #fff;
-    bottom: 16px;
-    right: 16px;
-  }
-</style>
 
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Bem-vindo ao meu site - Uma apresentação profissional online">
+    <meta name="description" content="Bem-vindos ao meu site - teste1">
     <meta name="keywords" content="site, profissional, apresentação, serviços">
-    <title>Meu Site - Página Inicial</title>
+    <title>Meu Primeiro Sitinho - Página Inicial </title>
     <style>
         * {
             margin: 0;
@@ -39,7 +15,7 @@
         }
 
         body {
-            font-family: 'Arial', sans-serif;
+            font-family: 'Calibri', sans-serif;
             line-height: 1.6;
             color: #333;
             background-color: #f4f4f4;
@@ -213,22 +189,22 @@
     <main class="container">
         <section id="home" class="section">
             <h2>Página Inicial</h2>
-            <p>Olá! Este é o seu novo site hospedado gratuitamente. Você pode personalizar todo este conteúdo para refletir sua identidade pessoal ou profissional.</p>
-            <p>Este site foi criado usando HTML e CSS puros, sendo totalmente compatível com hospedagem gratuita em plataformas como GitHub Pages, Netlify, Vercel e outras.</p>
+            <p>Ei! Este é o seu novo site hospedado gratuitamente.</p>
+            <p>Este site foi criado usando HTML e CSS puros, com hospedagem no Github Pages e tentando fazer com o Vercel tb.</p>
         </section>
 
         <section id="sobre" class="section">
             <h2>Sobre</h2>
-            <p>Apresente-se aqui! Conte sua história, experiência profissional, formação acadêmica ou qualquer informação relevante que você gostaria que os visitantes soubessem sobre você.</p>
+            <p> João menino</p>
 
             <div class="cards">
                 <div class="card">
                     <h3>🎯 Missão</h3>
-                    <p>Descreva qual é o seu propósito ou missão profissional.</p>
+                    <p>Money money money money</p>
                 </div>
                 <div class="card">
                     <h3>👁️ Visão</h3>
-                    <p>Compartilhe sua visão de futuro e objetivos de longo prazo.</p>
+                    <p>Brinks é servir ao capitalismo </p>
                 </div>
                 <div class="card">
                     <h3>⭐ Valores</h3>
