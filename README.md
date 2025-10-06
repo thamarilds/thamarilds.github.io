@@ -247,10 +247,10 @@
             <p>Gostaria de conversar? Entre em contato através dos canais abaixo:</p>
 
             <div class="contact-info">
-                <p><strong>📧 Email:</strong> seu.email@exemplo.com</p>
+                <p><strong>📧 Email:</strong> tatarvargas@gmail.com</p>
                 <p><strong>📱 Telefone:</strong> (11) 99999-9999</p>
-                <p><strong>📍 Localização:</strong> Sua Cidade, Estado</p>
-                <p><strong>💼 LinkedIn:</strong> <a href="#">linkedin.com/in/seuperfil</a></p>
+                <p><strong>📍 Localização:</strong> Bahia, Brasil</p>
+                <p><strong>💼 LinkedIn:</strong> <a href="#">linkedin.com/in/thamaravargas</a></p>
             </div>
         </section>
     </main>
