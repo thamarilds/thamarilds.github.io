@@ -15,10 +15,10 @@
         }
 
         body {
-            font-family: 'Calibri', sans-serif;
+            font-family: 'Courier New', sans-serif;
             line-height: 1.6;
             color: #333;
-            background-color: #f4f4f4;
+            background-color: #610C04;
         }
 
         .container {
@@ -28,7 +28,7 @@
         }
 
         header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #E3242B 0%, #541E1B 100%);
             color: white;
             text-align: center;
             padding: 2rem 0;
@@ -72,7 +72,7 @@
         }
 
         nav a:hover {
-            background-color: #667eea;
+            background-color: #E6DBAC;
             color: white;
         }
 
@@ -91,7 +91,7 @@
         .section h2 {
             color: #667eea;
             margin-bottom: 1rem;
-            border-bottom: 2px solid #667eea;
+            border-bottom: 2px solid #E6DBAC;
             padding-bottom: 0.5rem;
         }
 
@@ -107,7 +107,7 @@
             padding: 1.5rem;
             border-radius: 8px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            border-left: 4px solid #667eea;
+            border-left: 4px solid#E6DBAC;
         }
 
         .card h3 {
